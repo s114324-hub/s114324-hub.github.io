@@ -5,7 +5,12 @@ body {
   background-repeat: no-repeat;
 }
 
- 
+ @media (max-width: 768px) {
+  body {
+    background-size: cover;
+  }
+}
+
 .roulette-container {
   margin: 30px auto;
 }
