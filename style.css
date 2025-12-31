@@ -27,6 +27,7 @@ body {
   color: white;
   margin: auto;
   transition: transform 2s ease-out;
+  cursor: pointer;
 }
 
 button {
