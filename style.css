@@ -18,7 +18,7 @@ body {
 #wheel {
   position: fixed;
   top: 50%;
-  left: 45px;
+  left: 30%;
   transform: translateY(-50%);
   z-index: 10;
 
