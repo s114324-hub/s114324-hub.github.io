@@ -17,8 +17,8 @@ body {
 
 #wheel {
   position: fixed;
-  bottom: 40px;
-  left: 20px;
+  bottom: 50px;
+  left: 40px;
 
   width: 200px;
   height: 200px;
