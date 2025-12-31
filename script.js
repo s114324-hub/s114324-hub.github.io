@@ -21,7 +21,7 @@ function spin() {
   const result = document.getElementById("result");
 
   rotation += Math.floor(Math.random() * 360) + 720;
-  wheel.style.transform = `rotate(${rotation}deg)`;
+ wheel.style.transform = `translateY(-50%) rotate(${rotation}deg)`;
 
   const choice = dinners[Math.floor(Math.random() * dinners.length)];
 
