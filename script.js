@@ -1,10 +1,17 @@
 const dinners = [
-  "Hot Pot 🍲",
-  "Fried Chicken 🍗",
-  "Ramen 🍜",
+  "Hot Pot ",
+  "beef stew",
+  "Ramen ",
   "fried rice",
-  "Pizza 🍕",
-  "Burgers 🍔"
+  "Pizza ",
+  "Burgers ",
+  "curry",
+  "pasta",
+  "dumplings",
+  "pho",
+  "chicken rice",
+  "sushi",
+
 ];
 
 let rotation = 0;
