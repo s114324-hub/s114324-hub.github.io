@@ -45,8 +45,8 @@ button {
 }
 
 #result {
-  font-size: 40px;      /* ← change this number to resize */
-  font-weight: bold;    /* optional */
-  color: #ea580c;       /* optional, matches wheel color */
+  font-size: 40px;     
+  font-weight: bold;    
+  color: #ea580c;       
   margin-top: 20px;
 }
