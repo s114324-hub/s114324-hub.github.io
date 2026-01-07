@@ -11,7 +11,7 @@ const dinners = [
   "pho",
   "chicken rice",
   "sushi",
-
+  "黑輪"
 ];
 
 let rotation = 0;
