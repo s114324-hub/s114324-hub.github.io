@@ -43,3 +43,10 @@ button {
   font-size: 16px;
   cursor: pointer;
 }
+
+#result {
+  font-size: 40px;      /* ← change this number to resize */
+  font-weight: bold;    /* optional */
+  color: #ea580c;       /* optional, matches wheel color */
+  margin-top: 20px;
+}
